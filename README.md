@@ -18,7 +18,7 @@ As an adaptable and proactive individual, I am eager to leverage my skills and p
 
 If you are seeking a dedicated and driven software tester to strengthen your team, please reach out. I look forward to connecting with like-minded professionals and exploring potential opportunities in the field of software testing. Let's collaborate to create innovative and robust solutions that exceed user expectations.
 
-contact with me: [![LinkedIn Badge](https://img.shields.io/badge/-@tetiana_korobkina-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tetiana-korobkina) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](kor1988tanya@gmail.com)
+contact with me: [![LinkedIn Badge](https://img.shields.io/badge/-@tetiana_korobkina-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tetiana-korobkina) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kor1988tanya@gmail.com)
 
 ---
 
