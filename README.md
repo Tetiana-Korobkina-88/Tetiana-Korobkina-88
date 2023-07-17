@@ -1,6 +1,6 @@
 # Hello! My name is Tatiana!
 
-<a href="https://drive.google.com/file/d/1qdOCpxN5A60j0CMxP4mxR1kc866_7ndI/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/1-SBVrLYbKYzkO1nN7IJIc421cOPHx0KP/view?usp=sharing" target="_blank">
   <img src="https://www.logomyway.com/logos_new/28250/myCV-logo-LMW-2-03_513713483913.png" title="CV" alt="CV" width="60" height="60" />
 </a>
 
